@@ -2,6 +2,12 @@
 
 This project showcases a Power BI dashboard developed to analyze and visualize the performance of an online e-commerce store. The dashboard answers key business questions related to sales, revenue trends, customer behavior, and product performance.
 
+
+## 📸 Dashboard Preview
+
+![E-Commerce Store Dashboard](https://github.com/Dhanush2121/E-Commerce-Store-Analysis/blob/main/E-Commerce%20Store%20Analysis/dataset/dashboard.png)
+
+
 🔹 Features & Highlights
 
 Interactive Dashboard – Track and analyze online sales data with dynamic visualizations.
